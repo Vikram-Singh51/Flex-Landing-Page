@@ -1,6 +1,6 @@
 # Flex-Landing-Page
 
-Live URl :- https://vikram-singh51.github.io/Flex-Landing-Page/
+Live URL :- https://vikram-singh51.github.io/Flex-Landing-Page/
 
 👉🏻  Applying flex property was amazing.
 👉🏻 One problem I face in media query I did not give the height property to left and right id
