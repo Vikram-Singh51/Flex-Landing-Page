@@ -17,5 +17,6 @@ Desktop Preview 👇
 ![image alt](https://github.com/Vikram-Singh51/Flex-Landing-Page/blob/c124c9e1a94f0a144c1a2c4db0c84f4a1cdd977b/Desktop%20Preview.png)
 
 Mobile Preview 👇
+
 ![image alt](https://github.com/Vikram-Singh51/Flex-Landing-Page/blob/c124c9e1a94f0a144c1a2c4db0c84f4a1cdd977b/Mobile%20Preview.jpg)
 
